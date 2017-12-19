@@ -1,4 +1,4 @@
-# BinaryTreeImplementation(json file handling)
+# Binary Tree Implementation (json file handling)
 
 * [Source Code For Python](http://nbviewer.jupyter.org/github/leehaesung/BinaryTreeImplementation/blob/master/Binary_Tree_Implementation_With_Json_Data.ipynb)
 
